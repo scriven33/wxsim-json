@@ -1,4 +1,4 @@
-#WXSIM latest.csv to json convertor. 
+# WXSIM latest.csv to json convertor. 
 
 This is a PHP file to turn the WXSIM (https://www.wxsim.com/) latest.csv file in to a JSON file. 
 
